@@ -35,3 +35,7 @@
 * [AWS](cloud-pentesting/aws.md)
 * [GPC](cloud-pentesting/gpc.md)
 * [AZURE](cloud-pentesting/azure.md)
+
+## CTFS/LABS
+
+* [HTB](ctfs-labs/htb.md)
