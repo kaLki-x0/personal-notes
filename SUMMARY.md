@@ -2,9 +2,11 @@
 
 * [HOME](README.md)
 
-## PENTESTING
+## CLOUD PENTESTING
 
-* [METHODLOGY](pentesting/methodlogy.md)
+* [AWS](cloud-pentesting/aws.md)
+* [GPC](cloud-pentesting/gpc.md)
+* [AZURE](cloud-pentesting/azure.md)
 
 ## WEB\_PENTESTING
 
@@ -29,12 +31,6 @@
 ## AI PENTESTING
 
 * [PROMPT INJECTION](ai-pentesting/prompt-injection.md)
-
-## CLOUD PENTESTING
-
-* [AWS](cloud-pentesting/aws.md)
-* [GPC](cloud-pentesting/gpc.md)
-* [AZURE](cloud-pentesting/azure.md)
 
 ## CTFS/LABS
 
