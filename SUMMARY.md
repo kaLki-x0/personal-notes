@@ -1,6 +1,6 @@
 # Table of contents
 
-* [HOME](README.md)
+* [INTRODUCTION](README.md)
 
 ## CLOUD PENTESTING
 
